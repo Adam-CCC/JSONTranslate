@@ -1,0 +1,29 @@
+{
+    "with param": "sample {{value}}",
+
+    "app.home": "Home",
+    "app.lab": "Lab",
+    "app.editor": "Editor",
+
+    "header.new-project": "New Project",
+    "header.save-project": "Save Project",
+    "header.save-project-tooltip": "Save all outstanding project changes",
+    "header.saveas-project": "Save Project As...",
+    "header.open-project": "Open Project",
+    "header.close-project": "Close Project",
+    "header.edit-project": "Edit Project",
+    "header.edit-views": "Views editor",
+    "header.edit-devices": "Devices settings",
+    "header.edit-charts": "Charts settings",
+    "header.edit-layout": "Layout settings",
+    "header.edit-plugins": "Plugins",
+    "header.edit-users": "Users settings",
+    "header.edit-alarms": "Alarms settings",
+    "header.edit-texts": "Texts settings",
+    "header.help": "ECLIPTIC Help",
+    "header.help-tutorial": "Tutorial",
+    "header.help-info": "About",
+    "header.info-version": "Version ",
+    "header.theme": "Theme light/dark"
+  }
+  
